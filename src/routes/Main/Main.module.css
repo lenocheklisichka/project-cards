@@ -1,0 +1,8 @@
+.blockComponents {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 50px 0;
+    background: linear-gradient(180deg, #24f5e3 0%, #4cbdb0 100%);
+}
